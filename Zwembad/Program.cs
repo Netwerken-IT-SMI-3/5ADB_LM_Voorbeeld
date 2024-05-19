@@ -10,6 +10,7 @@ namespace Zwembad
     {
         static void Main(string[] args)
         {
+            //aanpassing in functie van GIT
             Console.WriteLine("Berekening van de inhoud van een zwembad");
             Console.WriteLine("----------------------------------------\n");
 
